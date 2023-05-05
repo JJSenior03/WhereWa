@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "196600057532",
+    "project_id": "wherewa-ac094",
+    "storage_bucket": "wherewa-ac094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196600057532:android:a268fd2fdb38b42e87cab9",
+        "android_client_info": {
+          "package_name": "com.sathitnapatsinee.wherewa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196600057532-358mbf7djc6ndq2jc86su9t9rv24tjao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sathitnapatsinee.wherewa",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "196600057532-p463qq7m9g6tnn57fldio91n0off0k4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJaTuAQLCwiB5WGcXP3Yr91SgQpisvJyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196600057532-p463qq7m9g6tnn57fldio91n0off0k4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "196600057532-cjjo1afthgva204p1k72nhq9ulp5g3hf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.wherewa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
